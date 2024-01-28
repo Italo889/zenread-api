@@ -1,4 +1,4 @@
-# ZenRead
+# ZenRead-api
 
 ZenRead é uma plataforma de leitura de mangás com foco em proporcionar uma experiência de leitura confortável e envolvente. Este repositório abrange o back-end do projeto, implementado com Node.js e Express.
 
